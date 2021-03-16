@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/facundoaquino/React-Api-MLA/static/css/main.518b49f9.chunk.css",
+    "main.js": "/facundoaquino/React-Api-MLA/static/js/main.6f6cb955.chunk.js",
+    "main.js.map": "/facundoaquino/React-Api-MLA/static/js/main.6f6cb955.chunk.js.map",
+    "runtime-main.js": "/facundoaquino/React-Api-MLA/static/js/runtime-main.3c0f447e.js",
+    "runtime-main.js.map": "/facundoaquino/React-Api-MLA/static/js/runtime-main.3c0f447e.js.map",
+    "static/js/2.a7a9545c.chunk.js": "/facundoaquino/React-Api-MLA/static/js/2.a7a9545c.chunk.js",
+    "static/js/2.a7a9545c.chunk.js.map": "/facundoaquino/React-Api-MLA/static/js/2.a7a9545c.chunk.js.map",
+    "index.html": "/facundoaquino/React-Api-MLA/index.html",
+    "static/css/main.518b49f9.chunk.css.map": "/facundoaquino/React-Api-MLA/static/css/main.518b49f9.chunk.css.map",
+    "static/js/2.a7a9545c.chunk.js.LICENSE.txt": "/facundoaquino/React-Api-MLA/static/js/2.a7a9545c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c0f447e.js",
+    "static/js/2.a7a9545c.chunk.js",
+    "static/css/main.518b49f9.chunk.css",
+    "static/js/main.6f6cb955.chunk.js"
+  ]
+}
